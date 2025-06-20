@@ -6,10 +6,10 @@ const Header = () => {
     <header className="bg-slate-900 text-white py-4 px-6">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-2">
-          <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center font-bold text-lg">
-            Ш
+          <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center font-bold text-sm">
+            ШМ
           </div>
-          <h1 className="text-2xl font-bold">ШиноПро</h1>
+          <h1 className="text-2xl font-bold">Шинный мастер</h1>
         </div>
         
         <div className="hidden md:flex items-center space-x-6">

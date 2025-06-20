@@ -8,10 +8,10 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center space-x-2 mb-4">
-              <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center font-bold text-lg">
-                Ш
+              <div className="w-10 h-10 bg-orange-500 rounded-full flex items-center justify-center font-bold text-sm">
+                ШМ
               </div>
-              <h3 className="text-2xl font-bold">ШиноПро</h3>
+              <h3 className="text-2xl font-bold">Шинный мастер</h3>
             </div>
             <p className="text-gray-300">
               Профессиональный шиномонтаж в Москве. 
@@ -48,7 +48,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-slate-700 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 ШиноПро. Все права защищены.</p>
+          <p>&copy; 2024 Шинный мастер. Все права защищены.</p>
         </div>
       </div>
     </footer>
